@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+
+
+
 My developing research program focuses on studying the dynamics and development of perception, action, and cognition.
 
 Research topics include: human interaction, perception/action, motor development, language, memory
