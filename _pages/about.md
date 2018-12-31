@@ -9,9 +9,8 @@ redirect_from:
 
 
 
+<h1><center> My developing research program focuses on studying the dynamics and development of perception, action, and cognition.</center></h1>
 
-My developing research program focuses on studying the dynamics and development of perception, action, and cognition.
+<h1><center> Research topics include: human interaction, perception/action, motor development, language, memory</center></h1>
 
-Research topics include: human interaction, perception/action, motor development, language, memory
-
-Experimental methods include: behavioral experiments, motion capture, eye-tracking, computational models, and corpus analysis 
+<h1><center> Experimental methods include: behavioral experiments, motion capture, eye-tracking, computational models, and corpus analysis</center></h1>
