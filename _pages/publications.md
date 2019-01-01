@@ -15,7 +15,7 @@ Borjon, J., Schroer, S., Bambach, S., Slone, L., Abney, D.H., Crandall, D., Smit
 
 Slone, L., Abney, D.H., Borjon, J., Chen, C., Franchak, J.M., Pearcy, D., Suarez-Rivera, C., Xu, L., Zhang, Y., Smith, L.B., Yu, C.  (2018). Head-mounted Eye-tracking of Children's Dynamic Visual Attention during Naturalistic Behavior. <i>Journal of Visualized Experiments<i>. 
 
-Jordan, J.S., Schloesser, D.S., Bai, J., Abney, D.H. (2018). Multi-scale contingencies during individual and joint action. Topics in Cognitive Science. 
+Jordan, J.S., Schloesser, D.S., Bai, J., Abney, D.H. (2018). Multi-scale contingencies during individual and joint action. <i>Topics in Cognitive Science<i>. 
 
 Abney, D.H., Warlaumont, A. S., Oller D. K., Wallot, S., & Kello, C. T. (2017). Multiple coordination patterns in infant and adult vocalizations. <i>Infancy<i>. [PDF](http://drewabney.github.io/files/Abneyetal_2017_Infancy.pdf) 
 
@@ -25,7 +25,7 @@ Abney, D.H., Dale, R., Kello, C.T., Louwerse, M.M. (2017). Burstiness across mul
  
 Wagman, J.B., Abney, D.H. & Rosenbaum, D.A. (2017). Second-order grasp planning reflects sensitivity to inertial factors. <i>Human Movement Science<i>. [PDF](http://drewabney.github.io/files/WagmanAbneyRosenbaum_2017_HMS.pdf)  
 
-Xu, T. L., Abney, D.H., Yu, C. (2017). Discovering Multicausality in the Development of Coordinated Behavior. Proceedings of the 39th Annual Meeting of the Cognitive Science Society. [PDF](http://drewabney.github.io/files/XuAbneyYu_2017_CogSciProc.pdf) 
+Xu, T. L., Abney, D.H., Yu, C. (2017). Discovering Multicausality in the Development of Coordinated Behavior. <i>Proceedings of the 39th Annual Meeting of the Cognitive Science Society<i>. [PDF](http://drewabney.github.io/files/XuAbneyYu_2017_CogSciProc.pdf) 
 
 Abney, D.H. Kello, C. T., & Balasubramaniam, R. (2016). Introduction and Application to the Multiscale Coefficient of Variation Analysis. <i>Behavior Research Methods<i>. 
 
