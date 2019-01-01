@@ -5,9 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-#---
+---
 
-Overview
 ---------
 My developing research program focuses on studying the dynamics and development of perception, action, and cognition.  
 
