@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+Abney, D.H. Kello, C. T., & Balasubramaniam, R. (2016). Introduction and Application to the Multiscale Coefficient of Variation Analysis. <i>Behavior Research Methods<i>. 
+
+Ross, J.M., Warlaumont, A.S., Abney, D.H., Rigoli, L.M., Balasubramaniam, R. (2016). Influence of Musical Groove on Postural Sway. <i>Journal of Experimental Psychology: Human Perception and Performance<i>. [PDF](http://drewabney.github.io/files/Rossetal_2016_JEPHPP.pdf)  
+
+Bunce, J.P., Abney, D.H., Gordon, C.L., Spivey, M.J., & Scott, R.M. (2016). Using Motor Dynamics to Explore Real-time Competition in Cross-situational Word Learning: Evidence From Two Novel Paradigms. In J. Trueswell, A. Papafragou, D. Grodner, & D. Mirman (Eds.), <i>Proceedings of the 36th Annual Meeting of the Cognitive Science Society<i>. 
+
+Bunce, J., Gordon, C., Abney, D.H., Fleming, M., Greenwood, M., Chiu, E., Spivey, M.J., Scott, R. (2016). Mouse Tracking Reveals Knowledge of Multiple Competing Referents During Cross-situational Word Learning. <i>Boston University Conference on Language Development Proceedings<i>. [PDF](http://drewabney.github.io/files/Bunceetal_2016_BUCLDPS.pdf)  
+
 Abney, D.H., & Wagman, J.B., (2015). Direct learning in auditory perception: An information-space analysis of auditory perceptual learning of object length. <i>Ecological Psychology<i>. [PDF](http://drewabney.github.io/files/AbneyWagman_2015_EP.pdf) 
 
 Abney, D.H., Kello, C.T., Warlaumont, A. S.,  (2015). Production and convergence of multiscale clustering in speech. <i>Ecological Psychology<i>. [PDF](http://drewabney.github.io/files/AbneyKelloWarlaumont_2015_EP.pdf) 
