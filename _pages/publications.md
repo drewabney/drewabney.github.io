@@ -13,7 +13,7 @@ Abney, D.H., Dale, R., Kello, C.T., Louwerse, M.M. (2017). Burstiness across mul
  
 Wagman, J.B., Abney, D.H. & Rosenbaum, D.A. (2017). Second-order grasp planning reflects sensitivity to inertial factors. <i>Human Movement Science<i>. [PDF](http://drewabney.github.io/files/WagmanAbneyRosenbaum_2017_HMS.pdf)  
 
-Xu, T. L., Abney, D.H., Yu, C. (2017). Discovering Multicausality in the Development of Coordinated Behavior. Proceedings of the 39th Annual Meeting of the Cognitive Science Society.[PDF](http://drewabney.github.io/files/XuAbneyYu_2017_CogSciProc.pdf) 
+Xu, T. L., Abney, D.H., Yu, C. (2017). Discovering Multicausality in the Development of Coordinated Behavior. Proceedings of the 39th Annual Meeting of the Cognitive Science Society. [PDF](http://drewabney.github.io/files/XuAbneyYu_2017_CogSciProc.pdf) 
 
 Abney, D.H. Kello, C. T., & Balasubramaniam, R. (2016). Introduction and Application to the Multiscale Coefficient of Variation Analysis. <i>Behavior Research Methods<i>. 
 
