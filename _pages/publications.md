@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+Borjon, J.*, Abney, D.H.*, Smith, L.B., Yu, C. (in press). Developmentally changing attractor dynamics of manual actions with objects in late infancy. <i>Complexity<i>.
+
+Abney, D.H., Dale, R., Louwerse, M.M., Kello, C. T. (2018). The bursts and lulls of multimodal interaction: Temporal distributions of behavior reveal differences between verbal and non-verbal communication. <i>Cognitive Science<i>. [PDF](http://drewabney.github.io/files/Abney_etal_2018.pdf) 
+
+Abney, D.H., Karmazyn, H., Smith, L.B., Yu, C. (2018). Hand-eye coordination and visual attention in infancy. <i>Proceedings of the 40th Annual Meeting of the Cognitive Science Society<i>. [PDF](http://drewabney.github.io/files/Abney_etal_2018_CogSciProc.pdf) 
+
+Borjon, J., Schroer, S., Bambach, S., Slone, L., Abney, D.H., Crandall, D., Smith, L.B. (2018). Capturing the egocentric view of infants and toddlers with head-mounted cameras. <i>Journal of Visualized Experiments<i>.  
+
+Slone, L., Abney, D.H., Borjon, J., Chen, C., Franchak, J.M., Pearcy, D., Suarez-Rivera, C., Xu, L., Zhang, Y., Smith, L.B., Yu, C.  (2018). Head-mounted Eye-tracking of Children's Dynamic Visual Attention during Naturalistic Behavior. <i>Journal of Visualized Experiments<i>. 
+
+Jordan, J.S., Schloesser, D.S., Bai, J., Abney, D.H. (2018). Multi-scale contingencies during individual and joint action. Topics in Cognitive Science. 
+
 Abney, D.H., Warlaumont, A. S., Oller D. K., Wallot, S., & Kello, C. T. (2017). Multiple coordination patterns in infant and adult vocalizations. <i>Infancy<i>. [PDF](http://drewabney.github.io/files/Abneyetal_2017_Infancy.pdf) 
 
 Abney, D.H., Smith, L.B., Yu, C. (2017). It’s Time: Quantifying the Relevant Timescales for Joint Attention. <i>Proceedings of the 39th Annual Meeting of the Cognitive Science Society<i>. [PDF](http://drewabney.github.io/files/AbneySmithYu_2017_CogSciProc.pdf) 
