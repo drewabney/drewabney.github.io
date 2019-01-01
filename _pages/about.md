@@ -22,7 +22,7 @@ Research Topics:
 Experimental Methods:
 ======
 
-<h1><center> behavioral experiments, motion capture, eye-tracking, computational models, and corpus analysis</center></h1></font>
+<h1><center> behavioral experiments, motion capture, eye-tracking, computational models, and corpus analysis</center></h1>
 
 
 
