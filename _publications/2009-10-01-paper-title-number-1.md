@@ -8,6 +8,4 @@ venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
 McBride, D.M., Beckner, J., Abney, D.H. (2011). Effect of placement of prospective memory cues in an ongoing task on prospective memory task performance. Memory & Cognition. [PDF](http://academicpages.github.io/files/paper1.pdf) 
