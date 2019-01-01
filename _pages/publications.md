@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Abney, D.H., Warlaumont, A. S., Oller D. K., Wallot, S., & Kello, C. T. (2017). Multiple coordination patterns in infant and adult vocalizations. <i>Infancy<i>.
+Abney, D.H., Warlaumont, A. S., Oller D. K., Wallot, S., & Kello, C. T. (2017). Multiple coordination patterns in infant and adult vocalizations. <i>Infancy<i>. [PDF](http://drewabney.github.io/files/Abneyetal_2017_Infancy.pdf) 
 
 Abney, D.H., Smith, L.B., Yu, C. (2017). It’s Time: Quantifying the Relevant Timescales for Joint Attention. <i>Proceedings of the 39th Annual Meeting of the Cognitive Science Society<i>. [PDF](http://drewabney.github.io/files/AbneySmithYu_2017_CogSciProc.pdf) 
  
