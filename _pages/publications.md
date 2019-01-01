@@ -11,9 +11,9 @@ Abney, D.H., Dale, R., Louwerse, M.M., Kello, C. T. (2018). The bursts and lulls
 
 Abney, D.H., Karmazyn, H., Smith, L.B., Yu, C. (2018). Hand-eye coordination and visual attention in infancy. <i>Proceedings of the 40th Annual Meeting of the Cognitive Science Society<i>. [PDF](http://drewabney.github.io/files/Abney_etal_2018_CogSciProc.pdf) 
 
-Borjon, J., Schroer, S., Bambach, S., Slone, L., Abney, D.H., Crandall, D., Smith, L.B. (2018). Capturing the egocentric view of infants and toddlers with head-mounted cameras. <i>Journal of Visualized Experiments<i>.  
+Borjon, J., Schroer, S., Bambach, S., Slone, L., Abney, D.H., Crandall, D., Smith, L.B. (2018). Capturing the egocentric view of infants and toddlers with head-mounted cameras. <i>Journal of Visualized Experiments<i>. [Open Access](https://www.jove.com/video/58445/a-view-their-own-capturing-egocentric-view-infants-toddlers-with-head)
 
-Slone, L., Abney, D.H., Borjon, J., Chen, C., Franchak, J.M., Pearcy, D., Suarez-Rivera, C., Xu, L., Zhang, Y., Smith, L.B., Yu, C.  (2018). Head-mounted Eye-tracking of Children's Dynamic Visual Attention during Naturalistic Behavior. <i>Journal of Visualized Experiments<i>. 
+Slone, L., Abney, D.H., Borjon, J., Chen, C., Franchak, J.M., Pearcy, D., Suarez-Rivera, C., Xu, L., Zhang, Y., Smith, L.B., Yu, C.  (2018). Head-mounted Eye-tracking of Children's Dynamic Visual Attention during Naturalistic Behavior. <i>Journal of Visualized Experiments<i>. [Open Access](https://www.jove.com/video/58496/gaze-action-head-mounted-eye-tracking-children-s-dynamic-visual)
 
 Jordan, J.S., Schloesser, D.S., Bai, J., Abney, D.H. (2018). Multi-scale contingencies during individual and joint action. <i>Topics in Cognitive Science<i>. 
 
