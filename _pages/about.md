@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My developing research program focuses on studying the dynamics and development of perception, action, and cognition. 
+Overview:
+======
+My developing research program focuses on studying the dynamics and development of perception, action, and cognition.  
+
+I’m a postdoctoral fellow at Indiana University working with Drs. Chen Yu and Linda Smith. I’m lucky to be surrounded by dedicated mentors, stimulating collaborators, and wonderful researchers. 
 
 Research Topics:
 ======
