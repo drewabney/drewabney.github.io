@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+Abney, D.H., Warlaumont, A. S., Oller D. K., Wallot, S., & Kello, C. T. (2017). Multiple coordination patterns in infant and adult vocalizations. <i>Infancy<i>.
+
+Abney, D.H., Smith, L.B., Yu, C. (2017). It’s Time: Quantifying the Relevant Timescales for Joint Attention. <i>Proceedings of the 39th Annual Meeting of the Cognitive Science Society<i>. [PDF](http://drewabney.github.io/files/AbneySmithYu_2017_CogSciProc.pdf) 
+ 
+Abney, D.H., Dale, R., Kello, C.T., Louwerse, M.M. (2017). Burstiness across multimodal human interaction reveals differences between verbal and non-verbal communication. <i>Proceedings of the 39th Annual Meeting of the Cognitive Science Society<i>. [PDF](http://drewabney.github.io/files/AbneyDaleKelloLouwerse_2017_CogSciProc.pdf)  
+ 
+Wagman, J.B., Abney, D.H. & Rosenbaum, D.A. (2017). Second-order grasp planning reflects sensitivity to inertial factors. <i>Human Movement Science<i>. [PDF](http://drewabney.github.io/files/WagmanAbneyRosenbaum_2017_HMS.pdf)  
+
+Xu, T. L., Abney, D.H., Yu, C. (2017). Discovering Multicausality in the Development of Coordinated Behavior. Proceedings of the 39th Annual Meeting of the Cognitive Science Society.[PDF](http://drewabney.github.io/files/XuAbneyYu_2017_CogSciProc.pdf) 
+
 Abney, D.H. Kello, C. T., & Balasubramaniam, R. (2016). Introduction and Application to the Multiscale Coefficient of Variation Analysis. <i>Behavior Research Methods<i>. 
 
 Ross, J.M., Warlaumont, A.S., Abney, D.H., Rigoli, L.M., Balasubramaniam, R. (2016). Influence of Musical Groove on Postural Sway. <i>Journal of Experimental Psychology: Human Perception and Performance<i>. [PDF](http://drewabney.github.io/files/Rossetal_2016_JEPHPP.pdf)  
