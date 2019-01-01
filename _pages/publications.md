@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Abney, D.H., McBride, D.M., & Petrella, S.N. (2013). Interaction Effects of Transfer-Appropriate Processing for Event-Based Prospective Memory. <i>Memory & Cognition<i>.[PDF](http://drewabney.github.io/files/AbneyMcBridePetrella_2013_MC.pdf) 
+Abney, D.H., McBride, D.M., & Petrella, S.N. (2013). Interaction Effects of Transfer-Appropriate Processing for Event-Based Prospective Memory. <i>Memory & Cognition<i>. [PDF](http://drewabney.github.io/files/AbneyMcBridePetrella_2013_MC.pdf) 
 
-Wagman, J.B. & Abney, D.H. (2013). Is calibration of the perception of length modality-independent? <i>Attention, Perception, & Psychophysics<i>.[PDF](http://drewabney.github.io/files/WagmanAbney_2013_APP.pdf) 
+Wagman, J.B. & Abney, D.H. (2013). Is calibration of the perception of length modality-independent? <i>Attention, Perception, & Psychophysics<i>. [PDF](http://drewabney.github.io/files/WagmanAbney_2013_APP.pdf) 
 
 Abney, D.H., Paxton, A., Kello, C., & Dale, R. (2013). Complexity matching in dyadic interactions. In P. Passos, J. Barrieros, R. Cordovil, D. Araujo, & F. Melo (Eds.), <i>Studies in Perception and Action XII: Proceedings from the Seventeenth International Conference on Perception and Action<i>. 
 
