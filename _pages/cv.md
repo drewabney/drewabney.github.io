@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Here's my CV](http://drewabney.github.io/files/Abney_etal_2018.pdf) 
+[Click here for an updated (mostly) CV](http://drewabney.github.io/files/Abney_CV.pdf) 
