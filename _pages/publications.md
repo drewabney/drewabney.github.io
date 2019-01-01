@@ -27,7 +27,7 @@ Wagman, J.B., Abney, D.H. & Rosenbaum, D.A. (2017). Second-order grasp planning 
 
 Xu, T. L., Abney, D.H., Yu, C. (2017). Discovering Multicausality in the Development of Coordinated Behavior. <i>Proceedings of the 39th Annual Meeting of the Cognitive Science Society<i>. [PDF](http://drewabney.github.io/files/XuAbneyYu_2017_CogSciProc.pdf) 
 
-Abney, D.H. Kello, C. T., & Balasubramaniam, R. (2016). Introduction and Application to the Multiscale Coefficient of Variation Analysis. <i>Behavior Research Methods<i>. 
+Abney, D.H. Kello, C. T., & Balasubramaniam, R. (2016). Introduction and Application to the Multiscale Coefficient of Variation Analysis. <i>Behavior Research Methods<i>. [PDF](http://drewabney.github.io/files/Abney2017_Article_IntroductionAndApplicationOfTh.pdf)  
 
 Ross, J.M., Warlaumont, A.S., Abney, D.H., Rigoli, L.M., Balasubramaniam, R. (2016). Influence of Musical Groove on Postural Sway. <i>Journal of Experimental Psychology: Human Perception and Performance<i>. [PDF](http://drewabney.github.io/files/Rossetal_2016_JEPHPP.pdf)  
 
