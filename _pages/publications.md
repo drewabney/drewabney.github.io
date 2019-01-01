@@ -15,7 +15,7 @@ Borjon, J., Schroer, S., Bambach, S., Slone, L., Abney, D.H., Crandall, D., Smit
 
 Slone, L., Abney, D.H., Borjon, J., Chen, C., Franchak, J.M., Pearcy, D., Suarez-Rivera, C., Xu, L., Zhang, Y., Smith, L.B., Yu, C.  (2018). Head-mounted Eye-tracking of Children's Dynamic Visual Attention during Naturalistic Behavior. <i>Journal of Visualized Experiments<i>. [Open Access](https://www.jove.com/video/58496/gaze-action-head-mounted-eye-tracking-children-s-dynamic-visual)
 
-Jordan, J.S., Schloesser, D.S., Bai, J., Abney, D.H. (2018). Multi-scale contingencies during individual and joint action. <i>Topics in Cognitive Science<i>. 
+Jordan, J.S., Schloesser, D.S., Bai, J., Abney, D.H. (2018). Multi-scale contingencies during individual and joint action. <i>Topics in Cognitive Science<i>. [PDF](http://drewabney.github.io/files/Jordanetal_2017.pdf) 
 
 Abney, D.H., Warlaumont, A. S., Oller D. K., Wallot, S., & Kello, C. T. (2017). Multiple coordination patterns in infant and adult vocalizations. <i>Infancy<i>. [PDF](http://drewabney.github.io/files/Abneyetal_2017_Infancy.pdf) 
 
