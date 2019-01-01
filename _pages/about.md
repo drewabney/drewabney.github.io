@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 excerpt: "About me"
 title: "Overview"
