@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Borjon, J.*, Abney, D.H.*, Smith, L.B., Yu, C. (in press). Developmentally changing attractor dynamics of manual actions with objects in late infancy. <i>Complexity<i>.
+Borjon, J., Abney, D.H., Smith, L.B., Yu, C. (in press). Developmentally changing attractor dynamics of manual actions with objects in late infancy. <i>Complexity<i>.
 
 Abney, D.H., Dale, R., Louwerse, M.M., Kello, C. T. (2018). The bursts and lulls of multimodal interaction: Temporal distributions of behavior reveal differences between verbal and non-verbal communication. <i>Cognitive Science<i>. [PDF](http://drewabney.github.io/files/Abney_etal_2018.pdf) 
 
