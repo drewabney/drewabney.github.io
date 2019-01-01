@@ -5,6 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+Abney, D.H., Paxton, A., Kello, C.T., & Dale, R. (2014). Complexity matching in dyadic conversation. <i>Journal of Experimental Psychology: General<i>. [PDF](http://drewabney.github.io/files/Abneyetal_2014_JEPG.pdf) 
+
+Abney, D.H., Dale, R., Yoshimi, J., Kello, C.T., Tylén, K., Fusaroli, R. (2014). Joint perceptual decision-making: A case study in explanatory pluralism. <i>Frontiers in Theoretical and Philosophical Psychology<i>. [Research Topic: What levels of explanation in the behavioral sciences?] [PDF](http://drewabney.github.io/files/Abneyetal_2014_FrontiersPhil.pdf) 
+
+Abney, D.H., McBride, D.M., Conte, A., Vinson, D.W. (2014). Response dynamics in prospective memory. <i>Psychonomic Bulletin & Review<i>. [PDF](http://drewabney.github.io/files/Abneyetal_2014_PBR.pdf) 
+
+Abney, D.H., Warlaumont, A. S., Haussmann, A., Ross, J., Wallot, S. (2014). Using nonlinear methods to quantify infant motor and vocal development. <i>Frontiers in Developmental Psychology<i>. [Research Topic: The development of auditory-motor coordination in infancy] [PDF](http://drewabney.github.io/files/Abneyetal_2014_FrontiersPsych.pdf) 
+
+Abney, D.H., Wagman, J.B., & Schneider, J. (2014). Changing grasp position on a wielded object provides self-training for perception of length. <i>Attention, Perception, & Psychophysics<i>. [PDF](http://drewabney.github.io/files/AbneyWagmanSchneider_2013_APP.pdf) 
+
+Vinson, D. W., & Abney, D.H., Matlock, T., Dale, R. (2014). High-Level context effects on spatial displacement: The effects of body orientation and language on memory. <i>Frontiers in Cognitive Science<i>. [PDF](http://drewabney.github.io/files/Vinsonetal_2014_FrontiersPsych.pdf)  
+
+Paxton, A., Abney, D.H., Kello, C. K., & Dale, R. (2014). Network analysis of multimodal, multiscale coordination in dyadic problem solving. In P. Bello, M. Guarini, M. McShane & B. Scassellati (Eds.)  <i>Proceedings of the 36th Annual Meeting of the Cognitive Science Society<i>. Austin,TX: Cognitive Science Society. [PDF](http://drewabney.github.io/files/Paxtonetal_2014_CogSciProc.pdf) 
+
 Abney, D.H., McBride, D.M., & Petrella, S.N. (2013). Interaction Effects of Transfer-Appropriate Processing for Event-Based Prospective Memory. <i>Memory & Cognition<i>. [PDF](http://drewabney.github.io/files/AbneyMcBridePetrella_2013_MC.pdf) 
 
 Wagman, J.B. & Abney, D.H. (2013). Is calibration of the perception of length modality-independent? <i>Attention, Perception, & Psychophysics<i>. [PDF](http://drewabney.github.io/files/WagmanAbney_2013_APP.pdf) 
