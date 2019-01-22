@@ -7,7 +7,7 @@ author_profile: true
  
 If someone asked me, "Hey Drew, what are the most representative papers of your past, present, and future research?". I'd give them a list of the following:
 
-**Abney, D.H.**, Paxton, A., Kello, C.T., & Dale, R. (2014). Complexity matching in dyadic conversation. <i>Journal of Experimental Psychology: General<i>. [PDF](http://drewabney.github.io/files/Abneyetal_2014_JEPG.pdf) 
+**Abney, D.H.**, Paxton, A., Kello, C.T., & Dale, R. (2014). Complexity matching in dyadic conversation. <i>Journal of Experimental Psychology: General<i>. [PDF](http://drewabney.github.io/files/Abneyetal_2014_JEPG.PDF) 
 
 **Abney, D.H.**, Warlaumont, A. S., Oller D. K., Wallot, S., & Kello, C. T. (2017). Multiple coordination patterns in infant and adult vocalizations. <i>Infancy<i>. [PDF](http://drewabney.github.io/files/Abneyetal_2017_Infancy.pdf) 
 
