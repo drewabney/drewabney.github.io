@@ -13,11 +13,13 @@ Postdoctoral Scholar
 
 
 
+
 **University of California, Merced**, Merced, CA, USA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2016
 
 Doctor of Philosophy
 
 Area of Study: Cognitive and Information Sciences
+
 
 
 
@@ -29,11 +31,13 @@ Area of Study: Dual degrees in Cognitive/Behavioral Science and Quantitative Psy
 
 
 
+
 **Illinois State University**, Normal, IL USA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2009
 
 Masters of Science
 
 Area of Study: Science, Technology, Engineering, and Mathematics Education 
+
 
 
 
