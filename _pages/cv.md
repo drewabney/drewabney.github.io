@@ -7,12 +7,13 @@ redirect_from:
   - /resume
 ---
 
-Indiana University, Bloomington, IN, USA                                                                  2016-
+**Indiana University**, Bloomington, IN, USA                                                                  2016-
+
 
 Postdoctoral Scholar
 
 
-University of California, Merced, Merced, CA, USA                                                         2016
+**University of California, Merced**, Merced, CA, USA                                                         2016
 
 
 Doctor of Philosophy
@@ -21,7 +22,7 @@ Doctor of Philosophy
 Area of Study: Cognitive and Information Sciences
 
 
-Illinois State University, Normal, IL USA                                                                 2012
+**Illinois State University**, Normal, IL USA                                                                 2012
 
 
 Masters of Science
@@ -30,7 +31,7 @@ Masters of Science
 Area of Study: Dual degrees in Cognitive/Behavioral Science and Quantitative Psychology
 
 
-Illinois State University, Normal, IL USA                                                                 2009
+**Illinois State University**, Normal, IL USA                                                                 2009
 
 
 Masters of Science
@@ -39,7 +40,7 @@ Masters of Science
 Area of Study: Science, Technology, Engineering, and Mathematics Education 
 
 
-Illinois State University, Normal, IL USA                                                                 2008
+**Illinois State University**, Normal, IL USA                                                                 2008
 
 
 Bachelors of Science
