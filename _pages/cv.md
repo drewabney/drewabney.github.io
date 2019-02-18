@@ -32,4 +32,4 @@ redirect_from:
 **Illinois State University**, Normal, IL, USA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;2008<br/>B.S.<br/>Area of Study: Technology Education 
 
 
-[Full CV](http://drewabney.github.io/files/Abney_CV.pdf) 
+[Full CV](http://drewabney.github.io/files/Abney_CV_noref.pdf) 
