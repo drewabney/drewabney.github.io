@@ -11,7 +11,7 @@ If someone asked me, "Hey Drew, what are the most representative papers of your 
 
 **Abney, D.H.**, Warlaumont, A. S., Oller D. K., Wallot, S., & Kello, C. T. (2017). Multiple coordination patterns in infant and adult vocalizations. <i>Infancy<i>. [PDF](http://drewabney.github.io/files/Abneyetal_2017_Infancy.pdf) 
 
-**Borjon, J.**, **Abney, D.H.**, Smith, L.B., Yu, C. (in press). Developmentally changing attractor dynamics of manual actions with objects in late infancy. <i>Complexity<i>. [Open Access](https://www.hindawi.com/journals/complexity/2018/4714612/) **Equal Contribution**.
+**Borjon, J.**, **Abney, D.H.**, Smith, L.B., Yu, C. (2018). Developmentally changing attractor dynamics of manual actions with objects in late infancy. <i>Complexity<i>. [Open Access](https://www.hindawi.com/journals/complexity/2018/4714612/) **Equal Contribution**.
 
 **Abney, D.H.**, Dale, R., Louwerse, M.M., Kello, C. T. (2018). The bursts and lulls of multimodal interaction: Temporal distributions of behavior reveal differences between verbal and non-verbal communication. <i>Cognitive Science<i>. [PDF](http://drewabney.github.io/files/Abney_etal_2018.pdf) 
 
