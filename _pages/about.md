@@ -14,7 +14,7 @@ My research program focuses on studying the dynamics and development of percepti
 Research Topics:
 ----------------
 
-human interaction, perception/action, motor development, language, memory
+sensorimotor development, human interaction, perception/action, language, memory
 
 Experimental Methods:
 ---------------------
