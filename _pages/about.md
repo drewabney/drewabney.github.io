@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-My research program focuses on studying the dynamics and development of perception, action, and cognition. I’m a postdoctoral scholar at Indiana University working with Drs. Chen Yu and Linda Smith. I’m lucky to be surrounded by dedicated mentors, stimulating collaborators, and wonderful researchers.
+My research program focuses on studying the dynamics and development of perception, action, and cognition. I take a complex systems perspective to most of the problems that I study while utilizing and innovating quantitative and computational techniques/methods to better understand the rapidly changing behaviors of human infants. 
 
 Research Topics:
 ----------------
