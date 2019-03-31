@@ -17,10 +17,10 @@ If someone asked me, "Hey Drew, what are the most representative papers of your 
 
 
 My current research interests include:
-* [Examining the dynamics and development of perception/action.](http://drewabney.github.io/files/Abney_etal_2018.pdf)  
-* Understanding the role of early motor experiences for language, social, and attentional development.
-* Working with awesome collaborators to construct causal models of multimodal dyadic interaction.
-* Breaking down and modeling the temporal distributions that natural phenomena produce when perceiving, acting, and learning.
-* Developing novel methods for quantifying behavior and coordination.
+* [Examining the dynamics and development of perception/action.](https://www.hindawi.com/journals/complexity/2018/4714612/)  
+* [Understanding the role of early motor experiences for language, social, and attentional development.] (http://drewabney.github.io/files/Abney_etal_2018_CogSciProc.pdf)  
+* [Working with awesome collaborators to construct causal models of multimodal dyadic interaction.] (http://drewabney.github.io/files/XuAbneyYu_2017_CogSciProc.pdf)
+* [Breaking down and modeling the temporal distributions that natural phenomena produce when perceiving, acting, and learning.](http://drewabney.github.io/files/Abney_etal_2018.pdf)
+* [Developing novel methods for quantifying behavior and coordination.](https://dhabney.shinyapps.io/bursty_app/)
 
 Please drop a line if you are interested in these topics and want to talk more about ideas, hypotheses, data/code, etc. I am starting to increase my open science practice. Check out my github and OSF contributions. More to come! 
