@@ -17,7 +17,7 @@ If someone asked me, "Hey Drew, what are the most representative papers of your 
 
 
 My current research interests include:
-* Examining the dynamics and development of perception/action.
+* [Examining the dynamics and development of perception/action.](http://drewabney.github.io/files/Abney_etal_2018.pdf)  
 * Understanding the role of early motor experiences for language, social, and attentional development.
 * Working with awesome collaborators to construct causal models of multimodal dyadic interaction.
 * Breaking down and modeling the temporal distributions that natural phenomena produce when perceiving, acting, and learning.
