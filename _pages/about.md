@@ -11,7 +11,7 @@ redirect_from:
 
 My research program focuses on studying the dynamics and development of perception, action, and cognition. I take a complex systems perspective to most of the problems that I study while utilizing and innovating quantitative and computational techniques/methods to better understand the rapidly changing behaviors of human infants. 
 
-&ast;Starting August, 2019, I will join the faculty of the University of Cincinnati's Department of Psychology and the
+&ast;Starting August, 2019, I will join the faculty of the University of Cincinnati's [Department of Psychology](https://www.artsci.uc.edu/departments/psychology.html) and the
 [Center for Cognition, Action, and Perception](https://www.artsci.uc.edu/cap.html) as an Assistant Professor.&ast;
 
 Research Topics:
