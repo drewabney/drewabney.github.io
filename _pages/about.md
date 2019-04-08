@@ -17,7 +17,7 @@ Starting August, 2019, I will join the faculty of the University of Cincinnati's
 Research Topics:
 ----------------
 
-sensorimotor development, human interaction, perception/action, language, memory
+sensorimotor development, human interaction, perception/action, language
 
 Experimental Methods:
 ---------------------
