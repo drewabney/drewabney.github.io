@@ -8,7 +8,7 @@ author_profile: true
 My current research interests include:
 * [Examining the dynamics and development of perception/action.](https://www.hindawi.com/journals/complexity/2018/4714612/)  
 * [Understanding the role of early motor experiences for language, social, and attentional development.](http://drewabney.github.io/files/Abney_etal_2018_CogSciProc.pdf)  
-* [Working with awesome collaborators to construct causal models of multimodal dyadic interaction.](http://drewabney.github.io/files/XuAbneyYu_2017_CogSciProc.pdf)
+* [Working with awesome collaborators to construct causal models of multimodal infant-caregiver interaction.](http://drewabney.github.io/files/XuAbneyYu_2017_CogSciProc.pdf)
 * [Breaking down and modeling the temporal distributions that natural phenomena produce when perceiving, acting, and learning.](http://drewabney.github.io/files/Abney_etal_2018.pdf)
 * [Developing novel methods for quantifying the temporal structure of behavior.](https://dhabney.shinyapps.io/bursty_app/)
 * [Applying innovative methods that index infant-caregiver physiological synchrony to better understand the developmental trajectory of self-regulation.](http://drewabney.github.io/files/SRCD_2019.pdf)
