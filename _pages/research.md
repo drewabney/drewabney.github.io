@@ -10,7 +10,8 @@ My current research interests include:
 * [Understanding the role of early motor experiences for language, social, and attentional development.](http://drewabney.github.io/files/Abney_etal_2018_CogSciProc.pdf)  
 * [Working with awesome collaborators to construct causal models of multimodal dyadic interaction.](http://drewabney.github.io/files/XuAbneyYu_2017_CogSciProc.pdf)
 * [Breaking down and modeling the temporal distributions that natural phenomena produce when perceiving, acting, and learning.](http://drewabney.github.io/files/Abney_etal_2018.pdf)
-* [Developing novel methods for quantifying behavior and coordination.](https://dhabney.shinyapps.io/bursty_app/)
+* [Developing novel methods for quantifying the temporal structure of behavior.](https://dhabney.shinyapps.io/bursty_app/)
+* [Applying innovative methods that index infant-caregiver physiological synchrony to better understand the developmental trajectory of self-regulation.](http://drewabney.github.io/files/SRCD_2019.pdf)
 
 If someone asked me, "Hey Drew, what are the most representative papers of your past, present, and future research?". I'd give them a list of the following:
 
