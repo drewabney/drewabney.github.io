@@ -9,8 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-Developmental change is multi-causal, the aggregate product of many nested processes operating over many timescales and interacting across many levels of analysis (from genes, to parent behaviors, to the language environment, and social groups). Because of this multi-causality, there is nontrivial causal spread in which seemingly unrelated systems play causal, modulating, or permissive roles in the development of other systems. This complexity gives rise to a collection of inter-related causes and effects that require multiple measures, large datasets, and new analytic approaches.
-
 My research is programmatic in pursuing the role of sensorimotor development in driving and constraining developmental change but pursues a number of phenomena – from reaching, to visual exploration, to vocalizations, to word learning, to human interaction – that are interrelated and provide important test beds for understanding developmental processes using ecological and complex dynamical systems approaches. My research studies utilize various techniques: from conducting controlled laboratory experiments to free-flowing toy play sessions to collecting daylong multimodal (e.g., vocalizations, body movements, etc.) behavioral data. I am motivated to apply existing techniques from applied computational social science and machine learning and develop new computational and analytic methods to understand the dynamics of development during infancy and early childhood. 
 
 Starting August, 2019, I will join the faculty of the University of Cincinnati's [Department of Psychology](https://www.artsci.uc.edu/departments/psychology.html) and the
