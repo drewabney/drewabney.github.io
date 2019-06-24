@@ -12,7 +12,7 @@ My current research interests include:
 * [Breaking down and modeling the temporal distributions that natural phenomena produce when perceiving, acting, and learning.](http://drewabney.github.io/files/Abney_etal_2018.pdf) 
 * [Developing novel methods for quantifying the temporal structure of behavior](https://dhabney.shinyapps.io/bursty_app/) 
 and [how different types of temporal structure might impact memory and attention.](https://dhabney.shinyapps.io/Bursty_Activation/)
-* [Applying innovative methods that index infant-caregiver physiological synchrony to better understand the developmental trajectory of self-regulation.](http://drewabney.github.io/files/SRCD_2019.pdf)
+* [Creating computational techniques to index infant-caregiver physiological synchrony to better understand the developmental trajectories of co-regulation, self-regulation, and distress.](http://drewabney.github.io/files/SRCD_2019.pdf)
 
 If someone asked me, "Hey Drew, what are the most representative papers of your past, present, and future research?". I'd give them a list of the following:
 
