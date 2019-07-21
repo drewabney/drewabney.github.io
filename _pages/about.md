@@ -13,7 +13,7 @@ My research program focuses on the role of sensorimotor development in driving a
 
 My research studies use various techniques: from conducting controlled laboratory experiments to free-flowing toy play sessions to collecting daylong multimodal (e.g., vocalizations, body movements, etc.) behavioral data. I am motivated to apply existing techniques from applied computational social science and machine learning and develop new computational and analytic methods to understand the dynamics of development during infancy and early childhood. 
 
-I am recruiting graduate students for the Fall 2020 semester, so please send me your CV and a description of your research interests. Please check out my [Research page](https://drewabney.github.io/research/) to see what I'm currently interested and excited about! 
+I am recruiting graduate students for the Fall 2020 semester, so please send me your CV and a description of your research interests. Please check out my [Research page](https://drewabney.github.io/research/) to see my current research interests!
 
 Research Topics:
 ----------------
