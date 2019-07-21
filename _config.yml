@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Drew H. Abney"
 title_separator          : "-"
 name                     : &name "Drew H. Abney"
-description              : &description "Postdoctoral Scholar at Indiana University"
+description              : &description "Assistant Professor of Psychology at the University of Cincinnati"
 url                      : https://drewabney.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drewabney.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Drew H. Abney"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Scholar @ Indiana University"
-  location         : "Bloomington, Indiana"
+  bio              : "Assistant Professor of Psychology at the University of Cincinnati"
+  location         : "Cincinnati, Ohio"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=lR-DxJAAAAAJ&hl=en"
   email            :
