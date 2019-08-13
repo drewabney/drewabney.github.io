@@ -34,4 +34,4 @@ redirect_from:
 
 [Full CV](http://drewabney.github.io/files/Abney_CV_norefs.pdf) 
 
-<img src="https://drewabney.github.io/images//13765685_10103693171561610_1424932480286525714_o.jpg" width="500" height="500">
+<center><img src="https://drewabney.github.io/images//13765685_10103693171561610_1424932480286525714_o.jpg" width="500" height="500">
