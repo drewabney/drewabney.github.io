@@ -34,4 +34,4 @@ redirect_from:
 
 [Full CV](http://drewabney.github.io/files/Abney_CV_norefs.pdf) 
 
-![image info](./pictures/profile.png)
+![image info](https://drewabney.github.io/images/profile.png)
