@@ -6,6 +6,13 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+# Employment
+
+**University of Cincinnati**, Cincinnati, OH, USA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;2019-<br/>Assistant Professor
+
+
+
+
 # Education 
 
 
