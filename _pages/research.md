@@ -24,4 +24,4 @@ If someone asked me, "Hey Drew, what are the most representative papers of your 
  
 **Abney, D.H.**, Dale, R., Louwerse, M.M., Kello, C. T. (2018). The bursts and lulls of multimodal interaction: Temporal distributions of behavior reveal differences between verbal and non-verbal communication. <i>Cognitive Science<i>. [PDF](http://drewabney.github.io/files/Abney_etal_2018.pdf) 
  
-Please drop a line if you are interested in these topics and want to talk more about ideas, hypotheses, data/code, etc. I am starting to increase my open science practice. Check out my github and OSF contributions. More to come! 
+Please drop a line if you are interested in these topics and want to talk more about ideas, hypotheses, data/code, etc. I am starting to increase my open science practice. Check out my [github](https://github.com/drewabney) and [OSF](https://osf.io/kvbrd/) contributions. More to come! 
