@@ -13,7 +13,7 @@ My research program focuses on the role of sensorimotor development in driving a
 
 My research studies use various techniques: from conducting controlled laboratory experiments to free-flowing toy play sessions to collecting daylong multimodal (e.g., vocalizations, body movements, etc.) behavioral data. I am motivated to apply existing techniques from applied computational social science and machine learning and develop new computational and analytic methods to understand the dynamics of development during infancy and early childhood. 
 
-***Starting August, 2020, I'll be an Assistant Professor in the Department of Psychology at the University of Georgia. I will be recruiting graduate students, research assistants, and lab technicians. If interested in joining the lab, please send me your CV and a description of your research interests. The lab is committed to equality, diversity, inclusion, and an open science practice -- the goal is to have fun, work hard, and make discoveries! ***
+***Starting August, 2020, I'll be an Assistant Professor in the Department of Psychology at the University of Georgia. I will be recruiting graduate students, research assistants, and lab technicians. If interested in joining the lab, please send me your CV and a description of your research interests. The lab is committed to equality, diversity, inclusion, and an open science practice -- the goal is to have fun, work hard, and make discoveries!***
 
 Please check out my [Research page](https://drewabney.github.io/research/) to see a sampling of my current research projects!
 
