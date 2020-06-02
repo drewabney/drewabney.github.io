@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Xu, L., de Barbaro, K., **Abney, D.H.**, Cox, R. (2020). Finding structure in time: Visualizing and analyzing behavioral time series. <i>Frontiers in Developmental Psychology<i>. [PDF] (https://psyarxiv.com/mpz9g/) [GITHUB] (https://github.com/findstructureintime/Time-Series-Analysis)
+Xu, L., de Barbaro, K., **Abney, D.H.**, Cox, R. (2020). Finding structure in time: Visualizing and analyzing behavioral time series. <i>Frontiers in Developmental Psychology<i>. [PDF](https://psyarxiv.com/mpz9g/) [GITHUB](https://github.com/findstructureintime/Time-Series-Analysis)
 
 Karmazyn, H.R., **Abney, D.H.**, Crandall, D., Yu, C., Smith, L.B. (2019). How do infants start learning object names in a sea of clutter? <i>Proceedings of the 41th Annual Meeting of the Cognitive Science Society<i>. [PDF](http://drewabney.github.io/files/CogSci2019_Final_HK.pdf) 
  
