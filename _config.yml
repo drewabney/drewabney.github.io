@@ -11,7 +11,7 @@ title                    : "Drew H. Abney"
 title_separator          : "-"
 logo                     : "profile.png"
 name                     : &name "Drew Abney"
-description              : &description "Assistant Professor of Psychology at the University of Cincinnati."
+description              : &description "Assistant Professor of Psychology at the University of Georgia."
 url                      : https://drewabney.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drewabney.github.io"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Drew H. Abney"
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Psychology at the University of Cincinnati."
-  location         : "Cincinnati, Ohio"
+  bio              : "Assistant Professor of Psychology at the University of Georgia."
+  location         : "Athens, Georgia"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=lR-DxJAAAAAJ&hl=en"
   email            :
