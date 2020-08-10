@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-My research program focuses on the role of sensorimotor development in driving and constraining developmental change but pursues a number of phenomena – from reaching, to visual exploration, to vocalizations, to word learning, to human interaction – that are interrelated and provide important test beds for understanding developmental processes using ecological and complex dynamical systems approaches. 
+I focus on how behaviors and social interactions early in development constrain the developmental trajectory throughout infancy and into toddlerhood. 
 
 My research studies use various techniques: from conducting controlled laboratory experiments to free-flowing toy play sessions to collecting daylong multimodal (e.g., vocalizations, body movements, etc.) behavioral data. I am motivated to apply existing techniques from applied computational social science and machine learning and develop new computational and analytic methods to understand the dynamics of development during infancy and early childhood. 
 
@@ -19,7 +19,7 @@ Please check out my [Research page](https://drewabney.github.io/research/) to se
 
 Research Topics:
 ----------------
-sensorimotor development; human interaction; perception/action; language development
+sensorimotor development; human interaction; emotion regulation; perception/action; language development
 
 Empirical Methods:
 ---------------------
