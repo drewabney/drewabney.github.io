@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-Schwab, S.M., Grover, F.M., **Abney, D.H.**, Silva, P.L., Riley, M.A. (in press). Unpredictable task demands facilitate grip control in children and adolescents with cerebral palsy. <i>Clinical Biomechanics<i>.
-
 **Abney, D.H.**, Suanda, S.H., Smith, L.B., Yu, C. (in press). What are the building blocks of parent-infant coordinated attention in free-flowing interaction? <i>Infancy<i>.  
  
+Schwab, S.M., Grover, F.M., **Abney, D.H.**, Silva, P.L., Riley, M.A. (2020). Unpredictable task demands facilitate grip control in children and adolescents with cerebral palsy. <i>Clinical Biomechanics<i>. [PDF](http://drewabney.github.io/files/Schwabetal_2020.pdf)
+
 Xu, L., de Barbaro, K., **Abney, D.H.**, Cox, R. (2020). Finding structure in time: Visualizing and analyzing behavioral time series. <i>Frontiers in Developmental Psychology<i>. [PDF](http://drewabney.github.io/files/Xuetal_2020.pdf) [Github Repo](https://github.com/findstructureintime/Time-Series-Analysis)
 
 Karmazyn, H.R., **Abney, D.H.**, Crandall, D., Yu, C., Smith, L.B. (2019). How do infants start learning object names in a sea of clutter? <i>Proceedings of the 41th Annual Meeting of the Cognitive Science Society<i>. [PDF](http://drewabney.github.io/files/CogSci2019_Final_HK.pdf) 
