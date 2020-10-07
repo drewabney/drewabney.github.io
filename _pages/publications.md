@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Abney, D.H.**, Suanda, S.H., Smith, L.B., Yu, C. (in press). What are the building blocks of parent-infant coordinated attention in free-flowing interaction? <i>Infancy<i>.  
+**Abney, D.H.**, Suanda, S.H., Smith, L.B., Yu, C. (in press). What are the building blocks of parent-infant coordinated attention in free-flowing interaction? <i>Infancy<i>. [Preprint](http://drewabney.github.io/files/Abneyetal_2020_Infancy_preprint.pdf)
  
 Schwab, S.M., Grover, F.M., **Abney, D.H.**, Silva, P.L., Riley, M.A. (2020). Unpredictable task demands facilitate grip control in children and adolescents with cerebral palsy. <i>Clinical Biomechanics<i>. [PDF](http://drewabney.github.io/files/Schwabetal_2020.pdf)
 
